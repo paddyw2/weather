@@ -38,7 +38,8 @@ include 'icon_chooser.php';
         <div class="cover-container">
             
   
-            
+            <!-- optional menu -->
+            <!--
             <div class="rmm">
             <ul>
                 <li><a href='#home'>Home</a></li>
@@ -49,7 +50,7 @@ include 'icon_chooser.php';
                 <li><a href='#sitemap'>Sitemap</a></li> 
             </ul>
         </div>
-            
+            -->
             
             
             
@@ -79,7 +80,7 @@ include 'icon_chooser.php';
           </div>
 
         </div>
-<div class="credit">Icons made by <a href="http://www.flaticon.com/authors/yannick" title="Yannick">Yannick</a>, <a href="http://www.flaticon.com/authors/situ-herrera" title="Situ Herrera">Situ Herrera</a>, <a href="http://www.flaticon.com/authors/rami-mcmin" title="Rami McMin">Rami McMin</a>, <a href="http://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a>             is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a></div>
+<div class="credit">Icons by <a href="http://www.flaticon.com" title="Flaticon">Flaticon</a></div>
       </div>
 
     </div>

@@ -24,8 +24,8 @@
 /* Styles for credit section */
 
 .credit {
-    font-size: 8px;
-    margin-top: 50px;
+    font-size: 12px;
+    margin-top: 0px;
     margin-left: 10px;
     margin-right: 10px;
     color: #989898;
@@ -37,7 +37,7 @@
 /* unvisited link */
 .credit a:link {
     color: #989898;
-    font-style: italic;
+    text-decoration: underline;
 }
 
 /* visited link */
@@ -83,4 +83,6 @@
     font-size: ;
 }
 
-
+.cover {
+    padding: 0px;
+}
