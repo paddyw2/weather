@@ -15,7 +15,7 @@ include 'icon_chooser.php';
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Weather</title>
+<title>Weather App</title>
 <meta name="description" content="">
 <link href="css/weatherstyle.css" rel="stylesheet">
       <link href="dist/css/bootstrap.min.css" rel="stylesheet">
@@ -74,13 +74,11 @@ include 'icon_chooser.php';
           </div>
 
           <div class="mastfoot">
-            <div class="inner">
-              <p></p>
-            </div>
+            
           </div>
 
         </div>
-<div class="credit">Icons by <a href="http://www.flaticon.com" title="Flaticon">Flaticon</a></div>
+<div class="credit">Icons by <a href="http://www.flaticon.com" title="Flaticon">Flaticon</a>&nbsp;|&nbsp;Image by <a href="https://unsplash.com/gregshield" title="Flaticon">Unsplash</a></div>
       </div>
 
     </div>
@@ -93,8 +91,8 @@ include 'icon_chooser.php';
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="/dist/js/bootstrap.min.js"></script>
     <script src="/assets/js/docs.min.js"></script>
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+  
+    
     <script src="/mobile-menu/rmm-js/responsivemobilemenu.js"></script>
   
     
