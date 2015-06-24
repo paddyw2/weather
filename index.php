@@ -68,7 +68,7 @@ include 'icon_chooser.php';
               
                   </ul></div>
             <p class="lead">
-              <a href="#" class="btn btn-lg btn-default">More weather from Wunderground</a>
+              <a href="http://www.wunderground.com/" class="btn btn-lg btn-default">Created Using the Wunderground API</a>
             </p>
           </div>
 
