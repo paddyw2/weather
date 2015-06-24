@@ -87,10 +87,15 @@
     padding: 0px;
 }
 
-body {
+html, body {
+    height: 1 !important;
+}
+
+.site-wrapper {
     background-image: url('../assets/img/peyto.jpg');
     background-position: center;
     background-size: cover;
+    height: 100%;
 }
 
 
