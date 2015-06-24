@@ -1,0 +1,86 @@
+.flaticon-cloudy19 {
+    font-size: 180px;
+    color: #333;
+}
+
+.flaticon-sunny {
+    font-size: 180px;
+    color: #333;
+}
+
+.flaticon-cloud-storage {
+    font-size: 180px;
+    color: #333;
+}
+
+
+.flaticon-snowflake3 {
+    font-size: 180px;
+    color: #333;
+}
+
+
+
+/* Styles for credit section */
+
+.credit {
+    font-size: 8px;
+    margin-top: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #989898;
+    
+}
+
+
+
+/* unvisited link */
+.credit a:link {
+    color: #989898;
+    font-style: italic;
+}
+
+/* visited link */
+.credit a:visited {
+    color: #989898;
+}
+
+/* mouse over link */
+.credit a:hover {
+    color: #989898;
+}
+
+/* selected link */
+.credit a:active {
+    color: #989898;
+}
+
+
+/* Weather list styles */
+
+.weatherlist ul{
+    list-style: none;
+      
+      margin: auto;
+      padding: 0px;
+    
+}
+
+.weatherlist li {
+   display: inline;
+    padding: 20px;
+}
+
+.weatherlist {
+    min-width: 100px;
+    margin: 20px auto;
+    
+}
+
+
+
+.weatherdescription {
+    font-size: ;
+}
+
+
